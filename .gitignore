@@ -13,6 +13,9 @@ xcuserdata/
 *.dSYM.zip
 *.dSYM
 
+## Mac OS
+.DS_Store
+
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
